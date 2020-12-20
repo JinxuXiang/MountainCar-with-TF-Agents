@@ -1,6 +1,6 @@
 # MountainCar-with-TF-Agents
 
-## Deep Reinforcement Learning with TF-Agents on MountainCar-v0 Environment
+### Deep Reinforcement Learning with TF-Agents on MountainCar-v0 Environment
 
 ![screenshot](fig/1.png)
 
