@@ -1,7 +1,7 @@
 # MountainCar-with-TF-Agents
 
 
-![screenshot](doc/fig/1.png)
+![screenshot](fig/1.png)
 
 Environment[OpenAI Gym](https://gym.openai.com/envs/MountainCar-v0/)
 
