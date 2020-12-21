@@ -2,8 +2,8 @@
 
 ### Deep Reinforcement Learning with TF-Agents on MountainCar-v0 Environment
 
-<img src="fig/mountaincar.jpg" alt="Compound Emotions" width="500"/>
-
+<img src="fig/mountaincar.jpg" alt="Compound Emotions" width="300"/>
+<img src="fig/changedmountaincar.jpg" alt="Compound Emotions" width="300"/>
 Original Environment : [OpenAI Gym](https://gym.openai.com/envs/MountainCar-v0/)
 
 + **Project summary**: 
